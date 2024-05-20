@@ -1,0 +1,117 @@
+{
+  "main": {
+    "firstName": "Panchal",
+    "name": "Sagar",
+    "occupation": "Expirenced Frontend Developer",
+    "description": "I loved coding since I started!",
+    "image": "jeff-cropped.jpg",
+    "bio": "My name is Sagar, I'm a Front end developer and React.js enthusiast. People calls me, I'm react positive (R+).",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "sagar.panchal0055@gmail.com",
+    "address": {
+      "city": "India",
+      "state": "Gujarat"
+    },
+    "website": "https://teamtreehouse.com/geraldtorres",
+    "resumedownload": "https://drive.google.com/file/d/16sNhzmyCX3vqeA6AypDqWvHhtT7jNLCR/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sagarpanchal31/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sagarpanchal0055",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am well versed in using React.JS as my main Front end tech stack along with Redux and Next JS",
+    "education": [
+      {
+        "school": "G P Palanpur",
+        "degree": "Diploma Mechanical Enginnering",
+        "graduated": "June 2013",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Front end Developer",
+        "years": "Oct 2023 - Present",
+        "description": "Developed and implemented a modern UI interface for a legacy project, enhancing user experience and usability. Successfully migrated the project from React to Next.js, leveraging server-side rendering for improved performance and SEO. Collaborated closely with the backend team and project manager to align frontend development tasks with project goals and timelines. Utilized JIRA for efficient ticket management, prioritization, and tracking of project tasks and milestones. Demonstrated strong communication skills in liaising directly with the client to understand requirements, provide updates, and address feedback promptly. Achieved client satisfaction by delivering high-quality code, meeting project deadlines, and exceeding expectations."
+      },
+      {
+        "company": "NexusLink Services India Pvt Ltd",
+        "title": "Front end Developer",
+        "years": "Aug 2021 - Oct 2023",
+        "description": "Developed and maintained front-end components using React.js, leveraging HTML, CSS, and JavaScript. Integrated RESTful APIs and endpoints to enable efficient data retrieval and manipulation.Effectively communicated with international clients to ensure client satisfaction and project success. Wrote clean, well-documented, and testable code, and conducted comprehensive code reviews to uphold high code quality standards. Utilized Git and GitHub for version control and seamless collaboration with fellow developers."
+      },
+      {
+        "company": "Universal technolabs",
+        "title": "Junior Developer/Designer",
+        "years": "Feb 2021 - July 2021",
+        "description": "Collaborated with clients to understand their requirements and create custom images that aligned with their branding and design preferences. Implemented responsive design principles for optimal viewing across devices and screen sizes. Fixing issues of UI related issues in existing projects"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Redux",
+        "level": "75%"
+      },
+      {
+        "name": "Next JS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Discord clone",
+        "category": "Built with NextJs 14, prisma, mysql, clerk",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://discord-clone-pjta.onrender.com/"
+      },
+      {
+        "title": "DreamNav (LMS)",
+        "category": "React JS, Redux, Node JS, Express JS, postgress SQL, Objection ORM",
+        "url": "https://www.dreamnav.com"
+      },
+      {
+        "title": "Student Portal (Ed-Tech Project)",
+        "category": "React Js, Redux-Saga, Socket IO, Material UI, Salesforce",
+        "url": "https://www.sportal.com"
+      },
+      {
+        "title": "Book My Agenda (Event Booking)",
+        "category": "React Js, Material UI, Context API",
+        "url": "https://www.bma.com"
+      },
+      {
+        "title": "StageFront - (Event ticketing)",
+        "category": "Ext js Framework",
+        "url": "https://www.stagefront.com"
+      }
+    ]
+  }
+}
